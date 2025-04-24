@@ -17,7 +17,7 @@ Accurate ripeness detection is essential for minimizing food waste, optimizing s
 - 📐 Image size: Cropped to 512×512 pixels
 
 ### 2. Public Dataset
-- 🗃️ Source: [Mendeley Data – Hass Avocado Ripening Dataset](https://data.mendeley.com/)
+- 🗃️ Source: [Mendeley Data – Hass Avocado Ripening Dataset](https://data.mendeley.com/datasets/3xd9n945v8/1)
 - 📦 Total Images: 14,710
 - 🏷️ Stages: Underripe (1) to Overripe (5)
 - ⚙️ Split: 70% training, 30% testing
